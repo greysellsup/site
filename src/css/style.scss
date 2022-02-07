@@ -1,0 +1,7 @@
+$primary-color: cadetblue;
+$module: 8px;
+
+.scssBlock {
+    background-color: $primary-color;
+    padding: $module*2;
+}
